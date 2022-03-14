@@ -1,2 +1,2 @@
-# C_Learning
+# C_code
 for learning C
