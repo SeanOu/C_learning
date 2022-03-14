@@ -1,2 +1,2 @@
-# C_code
-for learning C
+# C_learning
+Examples from the learning process
