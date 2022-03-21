@@ -1,0 +1,6 @@
+﻿  game.c
+  test.c
+E:\KY\C语言\Test\C_test_03_21\game1\test.c(17,11): warning C4013: “InitBoard”未定义；假设外部返回 int
+E:\KY\C语言\Test\C_test_03_21\game1\test.c(19,14): warning C4013: “DisplayBoard”未定义；假设外部返回 int
+  正在生成代码...
+  game1.vcxproj -> E:\KY\C语言\Test\C_test_03_21\x64\Debug\game1.exe
